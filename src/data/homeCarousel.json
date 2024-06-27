@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "image": "/images/moon_camp.png",
+    "title": "Moon Camp",
+    "icons": [
+      {
+        "id": 1,
+        "icon": "/images/iconMain/Wi-Fi.svg",
+        "title": "Wi-Fi"
+      },
+      {
+        "id": 2,
+        "icon": "/images/iconMain/TV.svg",
+        "title": "TV"
+      },
+      {
+        "id": 3,
+        "icon": "/images/iconMain/Water Heater.svg",
+        "title": "Water-Heater"
+      },
+      {
+        "id": 4,
+        "icon": "/images/iconMain/Private.svg",
+        "title": "Private"
+      }
+    ],
+    "wishlist": "/images/wishlist.svg"
+  },
+  {
+    "id": 2,
+    "image": "/images/star_camp.png",
+    "title": "Star Camp",
+    "icons": [
+      {
+        "id": 1,
+        "icon": "/images/iconMain/Wi-Fi.svg",
+        "title": "Wi-Fi"
+      },
+      {
+        "id": 2,
+        "icon": "/images/iconMain/Bonfire.svg",
+        "title": "Bonfire"
+      },
+      {
+        "id": 3,
+        "icon": "/images/iconMain/Sleeping Bag.svg",
+        "title": "Sleeping Bag"
+      },
+      {
+        "id": 4,
+        "icon": "/images/iconMain/Breakfast.svg",
+        "title": "Breakfast"
+      }
+    ],
+    "wishlist": "/images/wishlist.svg"
+  },
+  {
+    "id": 3,
+    "image": "/images/rural_cootage.png",
+    "title": "Rural Cootage",
+    "icons": [
+      {
+        "id": 1,
+        "icon": "/images/iconMain/Wi-Fi.svg",
+        "title": "Wi-Fi"
+      },
+      {
+        "id": 2,
+        "icon": "/images/iconMain/TV.svg",
+        "title": "TV"
+      },
+      {
+        "id": 3,
+        "icon": "/images/iconMain/Breakfast.svg",
+        "title": "Breakfast"
+      },
+      {
+        "id": 4,
+        "icon": "/images/iconMain/Private.svg",
+        "title": "Private"
+      }
+    ],
+    "wishlist": "/images/wishlist.svg"
+  },
+  {
+    "id": 4,
+    "image": "/images/moon_camp.png",
+    "title": "Moon Camp",
+    "icons": [
+      {
+        "id": 1,
+        "icon": "/images/iconMain/Wi-Fi.svg",
+        "title": "Wi-Fi"
+      },
+      {
+        "id": 2,
+        "icon": "/images/iconMain/TV.svg",
+        "title": "TV"
+      },
+      {
+        "id": 3,
+        "icon": "/images/iconMain/Water Heater.svg",
+        "title": "Water-Heater"
+      },
+      {
+        "id": 4,
+        "icon": "/images/iconMain/Private.svg",
+        "title": "Private"
+      }
+    ],
+    "wishlist": "/images/wishlist.svg"
+  },
+  {
+    "id": 5,
+    "image": "/images/star_camp.png",
+    "title": "Star Camp",
+    "icons": [
+      {
+        "id": 1,
+        "icon": "/images/iconMain/Wi-Fi.svg",
+        "title": "Wi-Fi"
+      },
+      {
+        "id": 2,
+        "icon": "/images/iconMain/Bonfire.svg",
+        "title": "Bonfire"
+      },
+      {
+        "id": 3,
+        "icon": "/images/iconMain/Sleeping Bag.svg",
+        "title": "Sleeping Bag"
+      },
+      {
+        "id": 4,
+        "icon": "/images/iconMain/Breakfast.svg",
+        "title": "Breakfast"
+      }
+    ],
+    "wishlist": "/images/wishlist.svg"
+  },
+  {
+    "id": 6,
+    "image": "/images/rural_cootage.png",
+    "title": "Rural Cootage",
+    "icons": [
+      {
+        "id": 1,
+        "icon": "/images/iconMain/Wi-Fi.svg",
+        "title": "Wi-Fi"
+      },
+      {
+        "id": 2,
+        "icon": "/images/iconMain/TV.svg",
+        "title": "TV"
+      },
+      {
+        "id": 3,
+        "icon": "/images/iconMain/Breakfast.svg",
+        "title": "Breakfast"
+      },
+      {
+        "id": 4,
+        "icon": "/images/iconMain/Private.svg",
+        "title": "Private"
+      }
+    ],
+    "wishlist": "/images/wishlist.svg"
+  }
+]
